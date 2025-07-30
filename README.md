@@ -58,6 +58,6 @@ O dashboard final está documentado no arquivo `mini-projeto-RH.pdf`, contendo:
 ## ✅ Como Usar
 
 1. Baixe o arquivo `DatasetRH.csv`  
-2. Abra o projeto no Power BI Desktop (arquivo `.pbix` não incluído neste repositório)  
+2. Abra o projeto no Power BI Desktop mini-projeto-RH.pbix
 3. Conecte a fonte de dados e atualize os visuais  
 4. Explore o dashboard conforme os gráficos apresentados no PDF  
